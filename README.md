@@ -1,2 +1,2 @@
-# react-project1
+# E-commerce
 create a react app 
